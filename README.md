@@ -1,6 +1,8 @@
 # Netflix Dataset SQL Analysis Project
 ![Netflix Analysis Logo](https://github.com/kthalkari/Netflix-Dataset-SQL-Analysis-Project/blob/main/logo.png)
 
+This SQL-based analysis project explores Netflix's content catalog to uncover valuable insights about their streaming library. Using a dataset of Netflix titles, the project answers key business questions through carefully crafted SQL queries that range from basic to intermediate complexity.
+
 ## Project Overview
 This project analyzes Netflix's content catalog using SQL queries to uncover insights about:
 - Content distribution (movies vs TV shows)
@@ -53,11 +55,6 @@ This project analyzes Netflix's content catalog using SQL queries to uncover ins
 4. Most movies are **90-120 minutes** long
 5. **November** sees peak content additions
 
-## Potential Extensions
-1. Add visualization using Python/R
-2. Build a dashboard with Tableau/Power BI
-3. Incorporate sentiment analysis on descriptions
-4. Compare with competitor datasets
 
 ## Dataset
 
